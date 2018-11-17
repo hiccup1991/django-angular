@@ -6,3 +6,6 @@ python manage.py migrate
 python manage.py loaddata db.json
 python manage.py runsever
 
+Administrator
+username:admin
+password:asdf1234
